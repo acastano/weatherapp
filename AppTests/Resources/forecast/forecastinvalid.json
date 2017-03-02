@@ -1,0 +1,55 @@
+{
+    "city": {
+        "id": 3674962,
+        "name": "Medellin",
+        "coord": {
+            "lon": -75.563591,
+            "lat": 6.25184
+        },
+        "country": "CO",
+        "population": 0,
+        "sys": {
+            "population": 0
+        }
+    },
+    "cod": "200",
+    "message": 0.0036,
+    "cnt": 1,
+    "list": [
+             {
+             "dt": 1466121600,
+             "main": {
+             "temp": 13.38,
+             "temp_min": 13.38,
+             "temp_m 13.38,
+             "pressure": 798.51,
+             "sea_level": 1023.88,
+             "grnd_level": 798.51,
+             "humidity": 100,
+             "temp_kf": 0
+             },
+             "weather": [
+                         {
+                         "id": 501,
+                         "main": "Rain",
+                         "description": "moderate rain",
+                         "icon": "10n"
+                         }
+                         ],
+             "clouds": {
+             "all": 8
+             },
+             "wind": {
+             "speed": 0.62,
+             "deg": 24.5016
+             },
+             "rain": {
+             "3h": 5.68
+             },
+             "sys": {
+             "pod": "n"
+             },
+             "dt_txt": "2016-06-17 00:00:00"
+             }
+             ]
+}

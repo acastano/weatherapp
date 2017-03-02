@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": -75.56,
+        "lat": 6.25
+    },
+    "weather": [
+                {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+                }
+                ],
+    "base": "cmc stations",
+    "main": {
+        "temp": 22,
+        "pressure": 1025,
+        "humidity": 56,
+        "temp_min": 22,
+        "temp_max": 22
+    },
+    "wind": {
+        "speed": 2.6,
+        "deg": 140
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1465243200,
+    "sys": {
+        "type": 1,
+        "id": 4274,
+        "message": 0.003,
+        "country": "CO",
+        "sunrise": 1465210018,
+        "sunset": 1465254928
+    },
+    "id": 3674962,
+    "name": "Medellin",
+    "cod": 200
+}
